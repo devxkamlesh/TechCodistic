@@ -1,0 +1,6 @@
+{
+  "name": "VeritasLMS — Dual-Track LMS & Verified Internship Portal",
+  "description": "High-speed learning management system featuring 50 industry-recognized Diploma and Certificate tracks, automated Virtual Cohort Internships, skill-gated company hiring, and cryptographic QR credential verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
